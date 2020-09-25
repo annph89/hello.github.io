@@ -1,2 +1,2 @@
-# annph89.github.io
+# Assignment 3
 Assignment3
